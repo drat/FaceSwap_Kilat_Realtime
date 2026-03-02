@@ -5,7 +5,19 @@
 **FaceSwap Kilat** adalah toolkit FaceSwap profesional berbasis **InsightFace + ONNXRuntime** yang dioptimalkan untuk performa tinggi pada CPU. Proyek ini menyediakan dua mode aplikasi:
         
 1. **FaceSwap Kilat Batch & GUI Web (Gradio)** — untuk pemrosesan batch dan penggunaan cepat melalui browser.
-2. **FaceSwap Kilat Desktop Pro (PyQt5)** — aplikasi desktop native realtime dengan virtual camera dan performa rendah latency.
+2. **FaceSwap Kilat Webcam GUI web (Gradio)** — aplikasi browser realtime dengan virtual camera dan performa rendah latency.
+3. **FaceSwap Kilat Webcam Desktop (PyQt5)** — aplikasi desktop native realtime dengan virtual camera dan performa rendah latency.
+
+**Tampilan Batch & GUI Web**
+<img width="2772" height="3666" alt="FaceSwap-Kilat-03-03-2026_04_09_AM" src="https://github.com/user-attachments/assets/90f9c70b-ea40-4698-a743-eb3ee76290fc" />
+
+**Tampilan Webcam GUI Web**
+
+![demo_fskilat (1)](https://github.com/user-attachments/assets/2a1c0cc5-0910-496b-8970-6532734fc186)
+
+**Tampilan Webcam Desktop**
+
+![fskilat_desk (1)](https://github.com/user-attachments/assets/91fa11ff-8d9a-4fe8-96de-cebd2ed35b89)
 
 Dirancang untuk berjalan sepenuhnya **lokal tanpa cloud**, dengan fokus pada:
 
