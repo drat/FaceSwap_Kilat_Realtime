@@ -245,7 +245,7 @@ Tidak ada:
 
 # 📸 Screenshot (opsional)
 
-Tambahkan screenshot di sini.
+3 gambar screenshot di atas.
 
 ---
 
